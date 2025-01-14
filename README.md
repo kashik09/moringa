@@ -2,7 +2,7 @@
 
 This is a website hosted on GitHub Pages, showcasing my amature ability to create a website. The website is a mock website for a creative ads agency named CreativeAds Agency
 
-## Live Website
+## 🌐 Live Website
 
 Visit the live site here: [Moringa Website](https://kashik09.github.io/moringa/)
 
