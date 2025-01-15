@@ -1,10 +1,10 @@
-# Moringa Website
+# Mock CreativeAds Agency
 
-This is a website hosted on GitHub Pages, showcasing my amature ability to create a website. The website is a mock website for a creative ads agency named CreativeAds Agency
+This is a website hosted on GitHub Pages, showcasing my amature ability to create a website. The website is a mock website for a creative ads agency called CreativeAds Agency
 
 ## 🌐 Live Website
 
-Visit the live site here: [Moringa Website](https://kashik09.github.io/moringa/)
+Visit the live site here: [Mock CreativeAds Agency](https://kashik09.github.io/CreativeAds-Agency/)
 
 ## 🛠 Features
 
@@ -25,7 +25,7 @@ This website is deployed using **GitHub Pages**. Updates are pushed to the `gh-p
 
 ## 📋 Usage
 
-Feel free to explore the website via the [live link](https://kashik09.github.io/moringa/). If you’d like to contribute or customize, you can:
+Feel free to explore the website via the [live link](https://kashik09.github.io/CreativeAds-Agency/). If you’d like to contribute or customize, you can:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kashik09/moringa.git
+   git clone https://github.com/kashik09/CreativeAds-Agency.git
