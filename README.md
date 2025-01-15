@@ -1,6 +1,6 @@
 # Mock CreativeAds Agency
 
-This is a website hosted on GitHub Pages, showcasing my amature ability to create a website. The website is a mock website for a creative ads agency called CreativeAds Agency
+This is a mock website hosted on GitHub Pages, showcasing my amature ability to create a website. The website is a mock website for a creative ads agency called CreativeAds Agency.
 
 ## 🌐 Live Website
 
@@ -14,7 +14,7 @@ Visit the live site here: [Mock CreativeAds Agency](https://kashik09.github.io/C
 
 ## 📂 Project Structure
 
-- `index.html`: The main homepage of the website.
+- `index.html`: The main mock homepage for the ad agency.
 - `about.html`: A mock about page for the ad agency.
 - `about.html`: A mock contact page for the ad agency.
 
